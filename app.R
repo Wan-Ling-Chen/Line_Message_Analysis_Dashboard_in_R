@@ -7,6 +7,7 @@ library(stringr)
 library(ggplot2)
 library(wordcloud)
 library(showtext)
+
 # Define UI for application that draws a histogram
 ui <- fluidPage(
     
